@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harshsingh501/Data_Structure/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Harshsingh501/Data_Structure/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Harshsingh501/Data_Structure/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshsingh501/Data_Structure/tree/master/0242-valid-anagram) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshsingh501/Data_Structure/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harshsingh501/Data_Structure/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
