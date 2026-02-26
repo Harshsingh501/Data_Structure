@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshsingh501/Data_Structure/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Harshsingh501/Data_Structure/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harshsingh501/Data_Structure/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Harshsingh501/Data_Structure/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Harshsingh501/Data_Structure/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harshsingh501/Data_Structure/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshsingh501/Data_Structure/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Harshsingh501/Data_Structure/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Harshsingh501/Data_Structure/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Harshsingh501/Data_Structure/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshsingh501/Data_Structure/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
