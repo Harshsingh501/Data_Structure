@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshsingh501/Data_Structure/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Harshsingh501/Data_Structure/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshsingh501/Data_Structure/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Harshsingh501/Data_Structure/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Harshsingh501/Data_Structure/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Harshsingh501/Data_Structure/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshsingh501/Data_Structure/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Harshsingh501/Data_Structure/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Harshsingh501/Data_Structure/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
