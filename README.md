@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Harshsingh501/Data_Structure/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshsingh501/Data_Structure/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Harshsingh501/Data_Structure/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Harshsingh501/Data_Structure/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Harshsingh501/Data_Structure/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Harshsingh501/Data_Structure/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Harshsingh501/Data_Structure/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Harshsingh501/Data_Structure/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Harshsingh501/Data_Structure/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshsingh501/Data_Structure/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Harshsingh501/Data_Structure/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
