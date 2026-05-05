@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Harshsingh501/Data_Structure/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Harshsingh501/Data_Structure/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Harshsingh501/Data_Structure/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Harshsingh501/Data_Structure/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshsingh501/Data_Structure/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Harshsingh501/Data_Structure/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Harshsingh501/Data_Structure/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harshsingh501/Data_Structure/tree/master/0054-spiral-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harshsingh501/Data_Structure/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harshsingh501/Data_Structure/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
