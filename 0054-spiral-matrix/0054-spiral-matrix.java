@@ -1,46 +1,44 @@
-public class Solution {
+class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        
-        List<Integer> res = new ArrayList<Integer>();
-        
-        if (matrix.length == 0) {
-            return res;
-        }
-        
-        int rowBegin = 0;
-        int rowEnd = matrix.length-1;
-        int colBegin = 0;
-        int colEnd = matrix[0].length - 1;
-        
-        while (rowBegin <= rowEnd && colBegin <= colEnd) {
-           
-            for (int j = colBegin; j <= colEnd; j ++) {
-                res.add(matrix[rowBegin][j]);
-            }
-            rowBegin++;
+       List<Integer> res = new ArrayList<>();
+        int left = 0 , top = 0;
+        int bottom = matrix.length -1;
+        int right = matrix[0].length -1;
+
+        while( left<= right && top<= bottom){
+            int  i = left;
+            while( i <= right){
+                res.add(matrix[top][i]);
+                  i++;
+            } 
+          
+            top++;
             
-            for (int j = rowBegin; j <= rowEnd; j ++) {
-                res.add(matrix[j][colEnd]);
+            i = top ;
+            while( i <= bottom ){
+                res.add(matrix[i][right]);
+                i++;
             }
-            colEnd--;
             
-            if (rowBegin <= rowEnd) {
-                // Traverse Left
-                for (int j = colEnd; j >= colBegin; j --) {
-                    res.add(matrix[rowEnd][j]);
+            right--;
+            if(top <= bottom){
+                i = right;
+                while(i >= left){
+                    res.add(matrix[bottom][i]);
+                    i--;
                 }
             }
-            rowEnd--;
-            
-            if (colBegin <= colEnd) {
-                // Traver Up
-                for (int j = rowEnd; j >= rowBegin; j --) {
-                    res.add(matrix[j][colBegin]);
+            bottom--;
+            if ( left <= right){
+                i = bottom;
+                while(i >= top){
+                    res.add(matrix[i][left]);
+                    i--;
                 }
             }
-            colBegin ++;
+            left++;
+
         }
-        
         return res;
     }
 }
