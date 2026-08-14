@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Harshsingh501/Data_Structure/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Harshsingh501/Data_Structure/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harshsingh501/Data_Structure/tree/master/0485-max-consecutive-ones) |
+| [0930-binary-subarrays-with-sum](https://github.com/Harshsingh501/Data_Structure/tree/master/0930-binary-subarrays-with-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harshsingh501/Data_Structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harshsingh501/Data_Structure/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harshsingh501/Data_Structure/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Harshsingh501/Data_Structure/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Harshsingh501/Data_Structure/tree/master/0383-ransom-note) |
+| [0930-binary-subarrays-with-sum](https://github.com/Harshsingh501/Data_Structure/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harshsingh501/Data_Structure/tree/master/0238-product-of-array-except-self) |
+| [0930-binary-subarrays-with-sum](https://github.com/Harshsingh501/Data_Structure/tree/master/0930-binary-subarrays-with-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Harshsingh501/Data_Structure/tree/master/0128-longest-consecutive-sequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Harshsingh501/Data_Structure/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
