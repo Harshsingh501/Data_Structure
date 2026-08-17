@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Harshsingh501/Data_Structure/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Harshsingh501/Data_Structure/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Harshsingh501/Data_Structure/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Harshsingh501/Data_Structure/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Harshsingh501/Data_Structure/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Harshsingh501/Data_Structure/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harshsingh501/Data_Structure/tree/master/0485-max-consecutive-ones) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harshsingh501/Data_Structure/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshsingh501/Data_Structure/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Harshsingh501/Data_Structure/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Harshsingh501/Data_Structure/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Harshsingh501/Data_Structure/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Harshsingh501/Data_Structure/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Harshsingh501/Data_Structure/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Harshsingh501/Data_Structure/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Harshsingh501/Data_Structure/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Harshsingh501/Data_Structure/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Harshsingh501/Data_Structure/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Harshsingh501/Data_Structure/tree/master/0383-ransom-note) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harshsingh501/Data_Structure/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Harshsingh501/Data_Structure/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Harshsingh501/Data_Structure/tree/master/0383-ransom-note) |
 ## Stack
 |  |
@@ -156,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Harshsingh501/Data_Structure/tree/master/0930-binary-subarrays-with-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Harshsingh501/Data_Structure/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
