@@ -1,28 +1,20 @@
 class Solution {
-    public int answer(int nums[],int goal){
-
-        if(goal<0){
-            return 0;
-        }
-        int i=0;
-        int j=0;
-        int sum=0;
-        int count=0;
-        while(j<nums.length){
-            sum+=nums[j];
-            while(sum>goal){
-                sum-=nums[i];
-                i++;
+    public int numSubarraysWithSum(int[] nums, int goal) {
+        Map<Integer,Integer> map = new HashMap<>();
+        int count = 0;
+        int prefSum = 0;
+        map.put(0,1);
+        for(int num : nums){
+            prefSum += num; 
+            int required = prefSum - goal;
+            if(map.containsKey(required)){
+                count+= map.get(required);
             }
-            count+=j-i+1;
-            j++;
+            if(map.containsKey(prefSum)){
+                map.put(prefSum,map.get(prefSum)+1);
+            }
+            else map.put(prefSum,1);
         }
         return count;
     }
-    public int numSubarraysWithSum(int[] nums, int goal) {
-
-
-        return answer(nums,goal)-answer(nums,goal-1);
-    }
-
 }
